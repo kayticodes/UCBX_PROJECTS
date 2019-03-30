@@ -1,6 +1,0 @@
-name = input("whats your name?")
-country = input("what country do you call home")
-age = input("how old are you")
-hourly_wage = input("what is your hourly wage?")
-daily_wage = input("what is your daily_wage?")
-satisfied = bool(input("are you satisfied"))
